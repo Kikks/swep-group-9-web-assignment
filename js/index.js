@@ -96,15 +96,15 @@ const students = [
 const otherGroups = [
 	{
 		name: "Group 1",
-		url: "/"
+		url: "https://swep-group-one.netlify.app"
 	},
 	{
 		name: "Group 2",
-		url: "/"
+		url: "https://sanmi01.github.io/SWEP-Group-2-Assignment"
 	},
 	{
 		name: "Group 3",
-		url: "/"
+		url: "https://group-three-swep.netlify.app"
 	},
 	{
 		name: "Group 4",
@@ -112,15 +112,15 @@ const otherGroups = [
 	},
 	{
 		name: "Group 5",
-		url: "/"
+		url: "https://swepgroup5oau.netlify.app"
 	},
 	{
 		name: "Group 6",
-		url: "/"
+		url: "https://grp6project.netlify.app"
 	},
 	{
 		name: "Group 7",
-		url: "/"
+		url: "http://group-seven.netlify.app"
 	},
 	{
 		name: "Group 8",
