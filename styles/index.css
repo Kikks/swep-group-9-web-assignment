@@ -236,10 +236,11 @@ body {
 	animation-duration: 0.3s;
 	animation-timing-function: ease-in;
 	animation-fill-mode: forwards;
+	color: var(--bllue) !important;
 }
 
 .link__wrapper:visited {
-  color: inherit;
+  color: var(--blue) !important;
 }
 
 .link__wrapper:hover {
