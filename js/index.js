@@ -112,7 +112,7 @@ const otherGroups = [
 	},
 	{
 		name: "Group 5",
-		url: "https://swepgroup5oau.netlify.app"
+		url: "https://grp5swep.netlify.app"
 	},
 	{
 		name: "Group 6",
